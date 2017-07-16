@@ -1,0 +1,10 @@
+{
+  "gemName": "esi-ruby",
+  "moduleName": "EsiClient",
+  "gemVersion": "1.0.0",
+  "gemLicense": "MIT",
+  "gemHomepage": "https://github.com/tarisatram/esi-ruby",
+  "gemSummary": "Ruby wrapper for the Eve Swagger Interface (ESI)",
+  "gemAuthor": "Taris Atram",
+  "gemAuthorEmail": "taris.atram@gmail.com"
+}
